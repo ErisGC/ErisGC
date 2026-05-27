@@ -1,10 +1,5 @@
 <!--
-  Profile README de ErisGC.
-  Aparece en https://github.com/ErisGC
-
-  Placeholders por completar:
-    {{LINKEDIN_URL}}    p.ej. https://www.linkedin.com/in/tu-perfil
-    {{EMAIL}}           p.ej. ruben.gc@gmail.com (uno público que quieras compartir)
+  Profile README de ErisGC. Aparece en https://github.com/ErisGC
 -->
 
 <h1 align="center">¡Hola! Soy Rubén 👋</h1>
@@ -52,8 +47,20 @@ Lenguajes: TypeScript, Dart, Python, C#, JavaScript
 
 ## 📫 Contacto
 
-- LinkedIn: **{{LINKEDIN_URL}}**
-- Email: **{{EMAIL}}**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/ruben-guti%C3%A9rrez-4542a1412)**
+- ✉️  **bennielrrezno@gmail.com**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ruben-guti%C3%A9rrez-4542a1412">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bennielrrezno@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ErisGC?tab=repositories">
+    <img alt="Repos" src="https://img.shields.io/badge/-Más_proyectos-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <!--
 ErisGC/ErisGC is a special repository because its README appears on
