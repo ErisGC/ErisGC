@@ -10,6 +10,12 @@
   <em>Construyo plataformas web + móvil con foco en arquitectura clara, seguridad y experiencia de usuario.</em>
 </p>
 
+<p align="center">
+  <a href="https://rubengutierrez.vercel.app">
+    <img alt="Portfolio" src="https://img.shields.io/badge/🌐_Portfolio-rubengutierrez.vercel.app-5fd7a7?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ## 🔭 En qué estoy trabajando ahora
