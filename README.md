@@ -5,7 +5,7 @@
 <h1 align="center">¡Hola! Soy Rubén 👋</h1>
 
 <p align="center">
-  <em>Full-stack engineer · Colombia 🇨🇴</em>
+  <em>Full-stack engineer · Valledupar, Colombia</em>
   <br/>
   <em>Construyo plataformas web + móvil con foco en arquitectura clara, seguridad y experiencia de usuario.</em>
 </p>
